@@ -1,6 +1,6 @@
 # sMoBYAL
 ## Our framefork pipline
-![sMoBY](sMoBY.png)
+![sMoBY](https://github.com/thanhdh-3030/sMoBYAL/blob/e90f4ddf8a99927bcfa23e332ed3664a90ca4251/sMoBY.png)
 
 The fully contrastive learning framework for Active Learning.
 Please install the required libraries from requirements.txt
