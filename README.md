@@ -2,7 +2,7 @@
 ## Our framefork pipline
 ![sMoBY](sMoBY.png)
 
-The fully contrastive learning work for Active Learning.
+The fully contrastive learning framework for Active Learning.
 Please install the required libraries from requirements.txt
 Pip install requirements:
 ```
