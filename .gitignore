@@ -1,0 +1,7 @@
+*.txt
+*.pth
+*.npy
+*__pycache__**
+*.ipynb
+wandb/
+.vscode
